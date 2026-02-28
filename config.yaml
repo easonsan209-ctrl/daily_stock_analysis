@@ -1,0 +1,5 @@
+feishu:
+  app_id: "cli_a9280b7cffbadccd"
+  app_secret: "TpanjRnadB4wbagzl1rILd4awbWTBKiK"
+  folder_token: "QvfKfjOlolybdpd8FArcXTpXnNh?from=from_copylink"
+  bot_webhook: "https://open.feishu.cn/open-apis/bot/v2/hook/5e358155-1f12-4d9d-8ca0-d9fb2eaf2cf4"
